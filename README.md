@@ -1,2 +1,35 @@
-# n8n-regional-sales-reporting
-Automated regional sales reporting using n8n, REST API, Data Tables, data aggregation, CSV exports, and Discord notifications. An n8n Academy Quickstart project.
+# Regional Sales Reporting Automation | n8n
+
+## Project Overview
+An automated sales reporting workflow developed as part of the n8n Academy Quickstart (QS101) course.
+
+## Key Features
+- REST API integration
+- Customer and order data merging
+- Automated sales calculations
+- Regional data filtering
+- Sales aggregation and sorting
+- CSV report generation
+- Automated report uploads
+- Discord notifications
+
+## Technologies Used
+- n8n
+- REST API
+- JSON
+- CSV
+- Data Tables
+- Discord
+
+## Getting Started
+1. Import the workflow JSON into n8n.
+2. Configure API and Discord credentials.
+3. Connect your customer Data Table.
+4. Configure your assessment ID.
+5. Execute the workflow manually.
+
+## Project Status
+Completed as an n8n Academy educational project.
+
+## Author
+Eskandar Balakhanlu
