@@ -32,6 +32,9 @@ An automated sales reporting workflow developed as part of the n8n Academy Quick
 Completed as an n8n Academy educational project.
 
 ## Author
+
+Eskandar Balakhanlu
+
 ## Workflow Screenshot
 
 ![Regional Sales Reporting Automation](regional-sales-workflow.png)
